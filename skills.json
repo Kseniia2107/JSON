@@ -1,6 +1,6 @@
 {      
-	"Git bash":"изучение команд ls,mkdir, rm, mv,cp,less,cat,grep,find,curl",
-	"JS":"переменные, преобразование типов,типы данных, оператор if and ?, циклы while and for,логические операторы,функции,стрелочные функции",
-	"Postman":"переменные,запуск автотестов",
-	"Git hub":"знакомство с работой приложения,создание репозиториев,создание файлов,редактирование,commit и отправка файлов на внешний репозиторий"
+	"Git_bash":"learning commands: ls,mkdir, rm, mv,cp,less,cat,grep,find,curl",
+	"JS":"let, typeof, if and ?, while and for || and &&, functions, arrow functions",
+	"Postman":"learning the basics of Postman",
+	"Git_hub":"git clone, start. ,git add,git commit -m(-am),git push,git pull,vim,git fetch"
 }
